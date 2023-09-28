@@ -5,4 +5,5 @@
 
 
 ## Data Infographic on Lehigh's Fall 2022 Undergraduate Class. This data divides the percentage of students in each college department to illustrate the undergraduate enrollment in each college. The Office of Institutional Research & Strategic Analytics provides this information. 
-[More information can be found here](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2022.pdf) ![Data Infographic on Lehigh's Fall 2022 Undergraduate Class](https://github.com/eba226/Emmanuella-Agyemang.github.io/blob/main/github.png?raw=true)
+![Data Infographic on Lehigh's Fall 2022 Undergraduate Class](https://github.com/eba226/Emmanuella-Agyemang.github.io/blob/main/github.png?raw=true)
+[More information can be found here](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2022.pdf)
