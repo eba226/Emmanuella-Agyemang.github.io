@@ -4,4 +4,4 @@
 ![Emmanuella photographed at Lehigh University](https://github.com/eba226/Emmanuella-Agyemang.github.io/blob/main/1694030450183.jpeg?raw=true)
 
 
-## ![Data Infographic on Lehigh's Fall 2022 Undergraduate Class](https://github.com/eba226/Emmanuella-Agyemang.github.io/blob/b21d09d2e2cb1792e8002545303d7e9e20507392/github.png?raw=true)
+## !Data Infographic on Lehigh's Fall 2022 Undergraduate Class [Data Infographic on Lehigh's Fall 2022 Undergraduate Class](https://github.com/eba226/Emmanuella-Agyemang.github.io/blob/b21d09d2e2cb1792e8002545303d7e9e20507392/github.png?raw=true)
