@@ -10,3 +10,9 @@ This data divides the percentage of students in each college department to illus
 
 ![Data Infographic on Lehigh's Fall 2022 Undergraduate Class](https://github.com/eba226/Emmanuella-Agyemang.github.io/blob/main/github.png?raw=true)
 [More information can be found here](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2022.pdf)
+
+
+# Homework Assignment
+## Black Women and Mortality Rates in America
+![Black Women and Mortality Rates in America](https://github.com/eba226/eba226.github.io/blob/main/github_hw.png?raw=true)
+[More information can be found here](https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2021/maternal-mortality-rates-2021.htm#Table)
