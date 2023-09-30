@@ -14,5 +14,6 @@ This data divides the percentage of students in each college department to illus
 
 # Homework Assignment
 ## Black Women and Mortality Rates in America
+This data provides an in-depth look into the mortality rates in America and how they differ when looking at specific races. The data shows that among non-Hispanic Black women, Hispanic women, and White women, non-Hispanic Black women have the highest mortality rates during childbirth. These findings are quite profound, especially when examining them from 2018-2021 because we see the mortality rates increasing. Through this data, we can continue to investigate why this happens.
 ![Black Women and Mortality Rates in America](https://github.com/eba226/eba226.github.io/blob/main/github_hw.png?raw=true)
 [More information can be found here](https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2021/maternal-mortality-rates-2021.htm#Table)
