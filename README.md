@@ -20,3 +20,6 @@ This data provides an in-depth look into the mortality rates in America and how 
 
 # A Look at Lehigh's Football History (Timeline)
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16-oR8kB8DJiQxuXWTe-1XMMCAWYZC20RYgvva202osA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+# HW Assignment: Ghana's History After Independence
+<iframe src='https://docs.google.com/spreadsheets/d/e/2PACX-1vRloUSOmhQJoI0Pbp8nm4T1zCd80RMhbTSrSI7z3v--OxKPv8lbBboRmhoD65deVq2tVCZ2u_ZabZEJ/pubhtml?gid=0&single=true'></iframe>
