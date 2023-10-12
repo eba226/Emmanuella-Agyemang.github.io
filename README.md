@@ -24,3 +24,7 @@ This data provides an in-depth look into the mortality rates in America and how 
 # HW Assignment: Ghana's History After Independence (Timeline)
 ## All textual information is gathered and put together using Wikipedia
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1klQtLW5OuLgOwO_XXaenceYTPxjd9jy_gxQ-KBQRt-c&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+# In-Class Assignment
+## Lehigh's Enrollment Statistics
+![Enrollment and Undergraduate Bar Chart](https://github.com/eba226/eba226.github.io/blob/main/Undergraduate_Enrollment_and_Colleges_General_College_Div_Arts_Engineering_Health_Inter._Programs_Business_Eng._&_App._Sci._Arts_&_Sciences_chartbuilder-2.png?raw=true)
