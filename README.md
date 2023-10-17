@@ -28,3 +28,7 @@ This data provides an in-depth look into the mortality rates in America and how 
 # In-Class Assignment
 ## Lehigh's Enrollment Statistics
 ![Enrollment and Undergraduate Bar Chart](https://github.com/eba226/eba226.github.io/blob/main/Undergraduate_Enrollment_and_Colleges_General_College_Div_Arts_Engineering_Health_Inter._Programs_Business_Eng._&_App._Sci._Arts_&_Sciences_chartbuilder-2.png?raw=true)
+
+# Homework Assignment 10/17
+## Maternal Mortality Rate as of 2021
+![Maternal Mortality Rate](https://github.com/eba226/eba226.github.io/blob/main/Maternal_Mortality_Rates_in_the_United_States_(As_of_2021)_Percentage_as_of_2021__(per_100,000)_chartbuilder.png?raw=true)
