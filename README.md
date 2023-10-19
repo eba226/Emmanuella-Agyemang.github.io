@@ -14,15 +14,16 @@ This data divides the percentage of students in each college department to illus
 
 # Homework Assignment
 ## Black Women and Mortality Rates in America
-This data provides an in-depth look into the mortality rates in America and how they differ when looking at specific races. The data shows that among non-Hispanic Black women, Hispanic women, and White women, non-Hispanic Black women have the highest mortality rates during childbirth. These findings are quite profound, especially when examining them from 2018-2021 because we see the mortality rates increasing. Through this data, we can continue to investigate why this happens.
+This dataset from a 2021 National Center for Health Statistics report indicates that multiple factors contribute to these disparities, such as variation in quality healthcare, underlying chronic conditions, structural racism, and implicit bias. The data shows that among non-Hispanic Black women, Hispanic women, and White women, non-Hispanic Black women have the highest mortality rates during childbirth.
 ![Black Women and Mortality Rates in America](https://github.com/eba226/eba226.github.io/blob/main/github_hw.png?raw=true)
-[More information can be found here](https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2021/maternal-mortality-rates-2021.htm#Table)
+More information can be found [here](https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2021/maternal-mortality-rates-2021.htm#Table)
 
 # A Look at Lehigh's Football History (Timeline)
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16-oR8kB8DJiQxuXWTe-1XMMCAWYZC20RYgvva202osA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # HW Assignment: Ghana's History After Independence (Timeline)
-## All textual information is gathered and put together using Wikipedia
+## All textual information is gathered and put together using [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Ghanaian_history#:~:text=1957%20March%20%2D%20Ghana%20becomes%20independent,the%20one%20party%20state%20system.)
+This timeline gives insight into the history of Ghana post-independence from 1957-1994.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1klQtLW5OuLgOwO_XXaenceYTPxjd9jy_gxQ-KBQRt-c&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # In-Class Assignment
