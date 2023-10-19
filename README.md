@@ -15,7 +15,7 @@ This data divides the percentage of students in each college department to illus
 # Homework Assignment
 ## Black Women and Mortality Rates in America
 This dataset from a 2021 National Center for Health Statistics report indicates that multiple factors contribute to these disparities, such as variation in quality healthcare, underlying chronic conditions, structural racism, and implicit bias. The data shows that among non-Hispanic Black women, Hispanic women, and White women, non-Hispanic Black women have the highest mortality rates during childbirth.
-![Black Women and Mortality Rates in America](https://github.com/eba226/eba226.github.io/blob/main/github_hw.png?raw=true)
+![Black Women and Mortality Rates in America](https://github.com/eba226/eba226.github.io/blob/main/Circle%20Percentage%20Data%20Timeline%20Graph.png?raw=true)
 More information can be found [here](https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2021/maternal-mortality-rates-2021.htm#Table)
 
 # A Look at Lehigh's Football History (Timeline)
