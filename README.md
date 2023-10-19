@@ -32,3 +32,10 @@ This data provides an in-depth look into the mortality rates in America and how 
 # Homework Assignment 10/17
 ## Maternal Mortality Rate as of 2021
 ![Maternal Mortality Rate](https://github.com/eba226/eba226.github.io/blob/main/Maternal_Mortality_Rates_in_the_United_States_(As_of_2021)_Percentage_as_of_2021__(per_100,000)_chartbuilder.png?raw=true)
+
+# In-Class Assignment 10/19
+## Life Satisfaction and GDP Per Capita
+![Life Satisfaction](https://github.com/eba226/eba226.github.io/blob/main/Life_Satisfaction_and_GDP_Per_Capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
+
+## Lehigh's College Percentages
+![College Percentages](https://github.com/eba226/eba226.github.io/blob/main/Percentages_of_Students_in_Lehigh's_Colleges_Arts_&_Sciences_Arts_&_Engineering_Business_Engineering_&_Appl._Sci._Health_chartbuilder.png?raw=true)
