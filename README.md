@@ -44,4 +44,4 @@ This dataset shows the number of students in each college at Lehigh.
 
 ## Percent changes in Consumer Price Indexes, 2012-2022
 This data set shows data on food prices from the USDA [website](https://www.ers.usda.gov/data-products/food-price-outlook/)  
-![Price Index](https://raw.githubusercontent.com/eba226/eba226.github.io/c6f986aae25ce45d34418f506c5fbac7cf6617eb/Annual_percent_changes_in_selected_Consumer_Price_Indexes%2C_1974-2022_____Consumer_price_index_chartbuilder.png)
+![Price Index](https://github.com/eba226/eba226.github.io/blob/main/Annual_percent_changes_in_selected_Consumer_Price_Indexes,_2012-2022_____Consumer_price_index_chartbuilder.png?raw=true)
