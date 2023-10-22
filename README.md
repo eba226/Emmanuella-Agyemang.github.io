@@ -39,7 +39,9 @@ This timeline gives insight into the history of Ghana post-independence from 195
 ![Life Satisfaction](https://github.com/eba226/eba226.github.io/blob/main/Life_Satisfaction_and_GDP_Per_Capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
 
 ## Lehigh's College Percentages
+This dataset shows the number of students in each college at Lehigh.
 ![College Percentages](https://github.com/eba226/eba226.github.io/blob/main/Percentages_of_Students_in_Lehigh's_Colleges_Arts_&_Sciences_Arts_&_Engineering_Business_Engineering_&_Appl._Sci._Health_chartbuilder.png?raw=true)
 
 ## Percent changes in Consumer Price Indexes, 2012-2022
-![Price Index]
+This data set shows data on food prices from the USDA [website](https://www.ers.usda.gov/data-products/food-price-outlook/)  
+![Price Index](https://raw.githubusercontent.com/eba226/eba226.github.io/c6f986aae25ce45d34418f506c5fbac7cf6617eb/Annual_percent_changes_in_selected_Consumer_Price_Indexes%2C_1974-2022_____Consumer_price_index_chartbuilder.png)
