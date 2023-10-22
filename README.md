@@ -40,3 +40,6 @@ This timeline gives insight into the history of Ghana post-independence from 195
 
 ## Lehigh's College Percentages
 ![College Percentages](https://github.com/eba226/eba226.github.io/blob/main/Percentages_of_Students_in_Lehigh's_Colleges_Arts_&_Sciences_Arts_&_Engineering_Business_Engineering_&_Appl._Sci._Health_chartbuilder.png?raw=true)
+
+## Percent changes in Consumer Price Indexes, 2012-2022
+![Price Index]
