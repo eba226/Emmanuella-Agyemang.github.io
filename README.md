@@ -45,3 +45,7 @@ This dataset shows the number of students in each college at Lehigh.
 ## Percent changes in Consumer Price Indexes, 2012-2022
 This data set shows data on food prices from the USDA [website](https://www.ers.usda.gov/data-products/food-price-outlook/)  
 ![Price Index](https://github.com/eba226/eba226.github.io/blob/main/Annual_percent_changes_in_selected_Consumer_Price_Indexes,_2012-2022_____Consumer_price_index_chartbuilder.png?raw=true)
+
+# In-Class Assignment
+## 2019 World's Top 20 Cycling Cities
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1yktSJfqyFxkZSMfAtmI-EDiN8eTbFlg&ehbc=2E312F" width="640" height="480"></iframe>
